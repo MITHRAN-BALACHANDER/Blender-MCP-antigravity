@@ -40,3 +40,9 @@ __pycache__/
 .nox/
 .coverage
 htmlcov/
+
+
+
+publishing.md
+*.blend
+*.blend1
